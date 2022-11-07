@@ -26,8 +26,8 @@ dst_white = cv2.inRange(img, WHITE_MIN,WHITE_MAX)
 n_blue = cv2.countNonZero(dst_blue)
 n_white= cv2.countNonZero(dst_white)
 
-print('The number of meteors is: ' + str(n_blue))
 print('The number of stars is: ' + str(n_white))
+print('The number of meteors is: ' + str(n_blue))
 
 
 inverted_img = cv2.imread('inverted_img.png')
