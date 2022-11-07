@@ -6,7 +6,7 @@
 1. Count the number of Stars ✅
 2. Count the number of Meteors ✅ 
 3. If the Meteors are falling perpendicularly to the Ground (Water level), count how many will fall on the Water ✅ 
-4. Find the phrase that is hidden in the dots in the sky. ❌
+4. (optional) Find the phrase that is hidden in the dots in the sky. ❌
 
 | Questionns | Answers |
 | ------ | ------ |
